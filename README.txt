@@ -1,3 +1,4 @@
-A repository for practicing using git.
+A repository for learnig how to use git.
  
 Warning: the poems will probably suck.
+Really, last chance....
